@@ -11,6 +11,10 @@ I'm not a developer by training. AI lets me turn a thought or a wish into someth
 ◇ Learning to ask better questions, of people and machines.<br>
 ⌁ Got an idea or just curious? Feel free to reach out.
 
+### ◈ Dashboard
+
+**[starsoules.github.io/dashboard](https://starsoules.github.io/dashboard)** — KI- und IT-Bookmarks, Status der Cloud-Dienste, News-Signale, Repos.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starsoules/starsoules/output/terminal-dark.svg">
   <img alt="Terminal: a different Blade Runner scene each weekday, from a Voight-Kampff test to an origami unicorn on the desk." src="https://raw.githubusercontent.com/starsoules/starsoules/output/terminal-light.svg" width="100%">
